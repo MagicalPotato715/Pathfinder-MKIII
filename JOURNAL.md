@@ -59,8 +59,9 @@ I HATE DRC. IT TEARS APART MY HOPES AND DREAMS. Routing was fun while it lasted,
 
 I went to a cafe and locked in!!! All the DRC errors are now gonnnneeee!!!! I also learned about JLCPCB-specific design rules. However, I'm still concerned on whether the servo voltage pours / vias will be able to carry the current. Prob a few tweaks left, but almost done!
 
-<img width="1082" alt="Screenshot_2025-06-24_at_11 07 03_PM" src="https://github.com/user-attachments/assets/2f558141-5a18-456a-b8a3-fa159dd0f677" />
-<img width="236" alt="Screenshot_2025-07-02_at_12 29 06_PM" src="https://github.com/user-attachments/assets/c32d27a5-e889-4c7e-bab6-e4008615be59" />
+<img width="703" alt="Screenshot_2025-07-03_at_11 26 27_AM" src="https://github.com/user-attachments/assets/d18a839c-7b6f-4bdb-a333-9967df85c84c" />
+
+<img width="234" alt="Screenshot 2025-07<img width="703" alt="Screenshot_2025-07-03_at_11 26 27_AM" src="https://github.com/user-attachments/assets/1de15d88-5cf5-4449-a991-fd0ce234be84" />
 
 **Total time spent: 2hrs**
 
