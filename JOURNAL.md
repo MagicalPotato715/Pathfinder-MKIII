@@ -1,7 +1,7 @@
 ---
 title: Pathfinder Mark-III
 author: Calvin Hung
-description: This project is the PCB for the third edition of my hexapod Pathfinder for the science fair. It will be a significant upgrade from Mk-II, having significantly stronger motors a complex buck converter power control. 
+description: This project is the PCB for the third edition of my hexapod Pathfinder for the science fair. It will be a significant upgrade from Mk-II, having significantly stronger motors a complex buck converter power control. Additionally, I also want it to feature remote control, and a good inverse kinematics system so that I won't have to hard code in movements.
 created_at: 6/18/25
 ---
 
