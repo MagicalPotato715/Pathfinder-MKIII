@@ -61,7 +61,8 @@ I went to a cafe and locked in!!! All the DRC errors are now gonnnneeee!!!! I al
 
 <img width="703" alt="Screenshot_2025-07-03_at_11 26 27_AM" src="https://github.com/user-attachments/assets/d18a839c-7b6f-4bdb-a333-9967df85c84c" />
 
-<img width="234" alt="Screenshot 2025-07<img width="703" alt="Screenshot_2025-07-03_at_11 26 27_AM" src="https://github.com/user-attachments/assets/1de15d88-5cf5-4449-a991-fd0ce234be84" />
+<img width="244" alt="Screenshot_2025-07-03_at_11 26 54_AM" src="https://github.com/user-attachments/assets/5a576a7e-a9e5-469d-961a-32a098bf0299" />
+
 
 **Total time spent: 2hrs**
 
