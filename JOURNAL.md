@@ -1,5 +1,5 @@
 ---
-title: Pathfinder Mark III
+title: Pathfinder Mark-III
 author: Calvin Hung
 description: This project is the PCB for the third edition of my hexapod Pathfinder for the science fair. It will be a significant upgrade from Mk-II, having significantly stronger motors a complex buck converter power control. 
 created_at: 6/18/25
@@ -21,3 +21,57 @@ The box plot makes wiring so easy! Passives like capacitors are annoying tho (bu
 <img width="1082" alt="Screenshot_2025-06-24_at_11 07 03_PM" src="https://github.com/user-attachments/assets/3bae7356-b103-473b-afa5-5decb9b242e3" />
 
 **Total time spent: 3hrs**
+
+# June 25th: Finally fixed my schematic ugh -_-
+
+I finally found the rest of the nucleo footprint(s)! Also thought to clean up the space a little. The buck converter passive circuit was becoming confusing so I just wired it. The servo motor array is the bane of my existence - so annoying to rearrange. I CAN FINALLY START MAKING THE LAYOUT.
+
+<img width="1046" alt="Screenshot_2025-06-25_at_12 31 23_PM" src="https://github.com/user-attachments/assets/59ac825f-eb48-463f-bfe0-ce90e300f034" />
+
+**Total time spent: 5hrs**
+
+# June 26th: Layout Designing go brrr (SO MANY ERRRORRRRRRSSSSSSS UGHHHH)
+
+The buck converters' passives are sooooo annooyyyiinnnngggggggg. I have to place so many thing so many times. I'm also starting to realize I might not have enough space (maybe it was a bad idea to use chatgpt to find footprints). Also, I don't know how to route power because 15 amps is a lot and my trace calculator said it has to be 300 mils...
+
+<img width="927" alt="Screenshot_2025-07-02_at_9 47 05_AM" src="https://github.com/user-attachments/assets/cc634401-a90a-4673-a0dc-f33dd773e183" />
+
+**Total time spent: 3hrs**
+
+# June 27th: Layout Designing go brrr - Take 2
+
+I finally got a more optimized power system!!! Also I found a way to fit everything on the board. Routing is going to be fun!
+<img width="826" alt="Screenshot_2025-07-02_at_11 01 49_AM" src="https://github.com/user-attachments/assets/dada1fe8-7ed5-4fbd-a892-f8bbf458a097" />
+
+**Total time spent: 3hrs**
+
+# June 30th: Layout Designing go brrr (fml)
+
+I HATE DRC. IT TEARS APART MY HOPES AND DREAMS. Routing was fun while it lasted, but there. were. so. many. errors.............. (Also, I realized I can use pours for the power :O)
+
+<img width="749" alt="Screenshot_2025-07-03_at_10 24 26_AM" src="https://github.com/user-attachments/assets/14aca771-5550-44d0-b59d-7329b6645e56" />
+<img width="236" alt="Screenshot_2025-07-02_at_12 29 06_PM" src="https://github.com/user-attachments/assets/287e91bc-00f9-4fa6-979b-e4d407f52030" />
+
+**Total time spent (READ:wasted): 6hrs**
+
+# July 1st: :DDDDDDDDDD FINALLY I'M FREEEEEEEEEEEEEEEEEEEEEEEEE
+
+I went to a cafe and locked in!!! All the DRC errors are now gonnnneeee!!!! Prob a few tweaks left, but almost done!
+
+<img width="1082" alt="Screenshot_2025-06-24_at_11 07 03_PM" src="https://github.com/user-attachments/assets/2f558141-5a18-456a-b8a3-fa159dd0f677" />
+<img width="236" alt="Screenshot_2025-07-02_at_12 29 06_PM" src="https://github.com/user-attachments/assets/c32d27a5-e889-4c7e-bab6-e4008615be59" />
+
+**Total time spent: 2hrs**
+
+# July 7th: I'M DONE
+
+I think I'm ready. I'm confident with the board and it's ready to be made!
+
+<img width="1120" alt="Screenshot 2025-07-07 at 8 54 44 PM" src="https://github.com/user-attachments/assets/34777e5a-90c3-456e-aa57-8cf8499f46b6" />
+<img width="657" alt="Screenshot 2025-07-07 at 8 55 07 PM" src="https://github.com/user-attachments/assets/5ce31f2a-9d6f-49fb-8723-71501eaa0e66" />
+
+
+**Total time spent: ~3 hrs**
+
+
+
