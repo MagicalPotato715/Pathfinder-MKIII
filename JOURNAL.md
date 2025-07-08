@@ -69,7 +69,7 @@ After a lot of adjustments, all the DRC errors are now gonnnneeee!!!! I also lea
 
 # July 7th: I'M DONE
 
-I uploaded my schematic and designs onto several Kicad communities for final insight. Additionally, I also exported a 3d model of the PCB from kicad into OnShape CAD to check if it would physically fit. I also fully mapped out all of the necessary components in Digikey to the correct dimensions and requirements I need. I think I'm ready. I'm confident with the board and it's ready to be made!
+I moved around the layout and increased the trace width of the buck converter circuits. I uploaded my schematic and designs onto several Kicad communities for final insight. Additionally, I also exported a 3d model of the PCB from kicad into OnShape CAD to check if it would physically fit. I also fully mapped out all of the necessary components in Digikey to the correct dimensions and requirements I need. I think I'm ready. I'm confident with the board and it's ready to be made!
 
 <img width="1120" alt="Screenshot 2025-07-07 at 8 54 44 PM" src="https://github.com/user-attachments/assets/34777e5a-90c3-456e-aa57-8cf8499f46b6" />
 <img width="657" alt="Screenshot 2025-07-07 at 8 55 07 PM" src="https://github.com/user-attachments/assets/5ce31f2a-9d6f-49fb-8723-71501eaa0e66" />
