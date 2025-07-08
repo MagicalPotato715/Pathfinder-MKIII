@@ -28,8 +28,11 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
 |XT60 Connector|1|XT60-F|$1.57|[Link](https://tw.shp.ee/Gx2Y8iE)|
 |0.1uF Capacitor|3|0603B104K250SD|$1.7|[Link](https://tw.shp.ee/weARm6H)|
 |Accelerometer|1|BNO055|38.46|[Link](https://tw.shp.ee/19Ezxnb)|
+|PCB Board|1| |$101.71|JLCPCB Order|
 
 Total Components Price: ~$168.41
+PCB Price: $101.71
+Total Price: ~269.12
 
 
 
