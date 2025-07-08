@@ -1,18 +1,18 @@
-Id,Designator,Footprint,Quantity,Designation,Supplier and ref,,
-1,"D4,D5",LED_miniPLCC_2315_Handsoldering,2,LED,https://www.digikey.tw/en/products/detail/vishay-semiconductor-opto-division/VLMR233T2V2-GS08/3025490,,
-2,"SW2,SW1",SW_PUSH_6mm_H9.5mm,2,SW_Push,https://www.digikey.tw/en/products/detail/e-switch/TL1240NQ1JBLK/1805479,,
-3,"Coxa2,Femur1,Tibia5,Tibia1,Femur3,Coxa4,Coxa5,Tibia3,Tibia2,Coxa3,Femur6,Femur4,Tibia4,Coxa6,Coxa1,Tibia6,Femur5,Femur2",PinHeader_1x03_P2.54mm_Vertical,18,Motor_Servo,https://tw.shp.ee/tT3prQu,,
-4,"C8,C5,C7,C13,C16,C4,C12",C_0805_2012Metric,7,10uF,https://www.digikey.tw/en/products/detail/nextgen-components/0805W106K250CC/18676983,,
-5,"R7,R6,R4,R8,R2",R_0805_2012Metric,5,10k,https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-JW-103ELF/3593155,,
-6,"R9,R10",R_0805_2012Metric,2,500, https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-FX-4990ELF/3784987?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EBMV8ArMiGpFnkaRRAAWWLAAEAeQAWAW1x1iABwAuUEAFUAdgEtlE9AFl8mXAFcATvhCMQAWiGduvAsTKRKAZjZgPTEMQ8RJj8GenogA,,
-7,U2,nRF24L01_Breakout,1,NRF24L01_Breakout,https://tw.shp.ee/tFocrzP,,
-8,"D7,D1,D3",MBR1045S,3,D_Schottky,https://www.digikey.tw/en/products/detail/smc-diode-solutions/MBR1045S/5993230?s=N4IgTCBcDaILICEBKBGADAFgKwGUQF0BfIA,,
-9,"BuckConverterB1,BuckConverterC1,BuckConverterA1",SOIC127P599X175-9N,3,~,https://www.digikey.tw/en/products/detail/richtek-usa-inc/RT8289GSP/2546068?s=N4IgTCBcDaIEoBUAcYkE4QF0C%2BQ,,
-10,"C2,C3,C9,C15,C10,C14",CAP_TA_B2_PAN,6,47uF,https://www.digikey.tw/en/products/detail/panasonic-electronic-components/6TAB47M/4833040?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EBMVALEtCGpFnkaRRCsA7AAIArQDE6xAA4AXKCACqAOwCW8gPLoAsvky4ArgCd8IRiBbCOqDDgLEykSgDYAdAGZRANRkgFJTVNHX1DU3N6SyZBAAUtAGUAYQBBWLp6IA,,
-11,"R5,R1,R3",R_0805_2012Metric,3,38k,https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-FX-3832ELF/3784908,,
-12,U1,MODULE_NUCLEO-F446RE,1,NUCLEO-F446RE,https://www.digikey.tw/en/products/detail/stmicroelectronics/NUCLEO-F446RE/5347712,,
-13,"L3,L1,L2",IND_EXL1V0505-100-R_COB,3,10uH,https://www.digikey.tw/en/products/detail/eaton-electronics-division/EXL1V0505-100-R/13912336,,
-14,J1,AMASS_XT60-M,1,XT60-M,https://tw.shp.ee/Gx2Y8iE,,
-15,"C11,C6,C1",C_0603_1608Metric,3,0.1uF,https://www.digikey.tw/en/products/detail/nextgen-components/0603B104K250SD/22601930,,
-16,Bno055,BNO055,1,~,"https://tw.shp.ee/19Ezxnb 
-",,
+Component,Quantity,Model,Lowest Price (unit),Subtotal,Link
+LED,2,VLMR233T2V2-GS08,0.51,1.02,https://www.digikey.tw/en/products/detail/vishay-semiconductor-opto-division/VLMR233T2V2-GS08/3025490
+Button,2,TL1240NQ1JBLK,0.98,1.96,https://www.digikey.tw/en/products/detail/e-switch/TL1240NQ1JBLK/1805479
+Servo Motor,18,MG996R,4.2,75.60,https://tw.shp.ee/tT3prQu
+10uF Capacitor,7,0805W106K250CC,0.04,0.28,https://tw.shp.ee/vY3ZYgh
+10k Resistor,5,CR0805-JW-103ELF,0.10,0.50,https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-JW-103ELF/3593155
+500 Resistor,2,CR0805-FX-4990ELF,0.10,0.20,https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-FX-4990ELF/3784987?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EBMV8ArMiGpFnkaRRAAWWLAAEAeQAWAW1x1iABwAuUEAFUAdgEtlE9AFl8mXAFcATvhCMQAWiGduvAsTKRKAZjZgPTEMQ8RJj8GenogA
+NRF Board,1,NRF24L01_Breakout,1.00,1.00,https://tw.shp.ee/tFocrzP
+Schottky Resistor,3,MBR1045S,1.07,3.21,https://www.digikey.tw/en/products/detail/smc-diode-solutions/MBR1045S/5993230?s=N4IgTCBcDaILICEBKBGADAFgKwGUQF0BfIA
+Buck Converter,3,RT8289GSP,4.11,12.33,https://www.digikey.tw/en/products/detail/richtek-usa-inc/RT8289GSP/2546068?s=N4IgTCBcDaIEoBUAcYkE4QF0C%2BQ
+47uF Capacitor,6,6TAB47M,1.66,9.96,https://www.digikey.tw/en/products/detail/panasonic-electronic-components/6TAB47M/4833040?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EBMVALEtCGpFnkaRRCsA7AAIArQDE6xAA4AXKCACqAOwCW8gPLoAsvky4ArgCd8IRiBbCOqDDgLEykSgDYAdAGZRANRkgFJTVNHX1DU3N6SyZBAAUtAGUAYQBBWLp6IA
+38k Resistor,3,CR0805-FX-3832ELF,0.10,0.30,https://www.digikey.tw/en/products/detail/bourns-inc/CR0805-FX-3832ELF/3784908
+Developement Board,1,NUCLEO-F446RE,14.85,14.85,https://www.digikey.tw/en/products/detail/stmicroelectronics/NUCLEO-F446RE/5347712
+10uH Inductor,3,EXL1V0505-100-R,0.69,2.07,https://www.digikey.tw/en/products/detail/eaton-electronics-division/EXL1V0505-100-R/13912336
+XT60 Connector,1,XT60-F,1.57,1.57,https://tw.shp.ee/Gx2Y8iE
+0.1uF Capacitor,3,0603B104K250SD,1.70,5.10,https://tw.shp.ee/weARm6H
+Accelerometer,1,BNO055,38.46,38.46,https://tw.shp.ee/19Ezxnb
+Total,,,,168.41,
