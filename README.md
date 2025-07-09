@@ -9,9 +9,14 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
 **In Depth: How It Works** (for all yall nerds out there)
 
 - **PCB**
-  The PCB is, in essence, a servo driver. It is supposed to be placed on top of a Nucleo F446RE board, taking advantage of its Morpho pins that expose the MCU.
+  - The PCB is, in essence, a servo driver. It is supposed to be placed on top of a Nucleo F446RE board, taking advantage of its Morpho pins that expose the MCU. The power comes in from a 7.4V 2S LiPo battery connected to the onboard XT60 (just a connector).
+  - **Servos** Since the potential ampage could go up to ~10-15A, a pour is used to connect the battery to the 3 buck converters. Each buck converter steps down the battery power from 7.4V to 6V at 5A for 6 servos (two legs). This connection from the buck converters to the servo rails is led by another set of pours. The servos receive PWM input from 15 pins on the right morpho pins and 3 on the left.
+  - **Power** The VIN from the XT60 is also connected to the F446RE's onboard VIN pin (it already has a regulator to step down to 3.3V). This power then comes out of the 3.3V pin and is fed to the NRF Chip and the Accelerometer.
+  - **Accelerometer** The accelerometer used is the BNO055, an "INTELLIGENT ABSOLUTE ORIENTATION SENSOR, 9-AXIS SENSOR FUSION" (aka gyroscope & accelerometer and prob 9 other things). The BNO055 uses I2C and is connected to SDA & SCL. There is also a manual reset button connected to RST on the BNO055 just for funsies.
+  - **NRF Chip** This is going to be used to communicate with the hand-held controller (to be made later). The NRF Chip is the NRF24L01_Breakout. NRF24L01_Breakout uses SPI and thus the MISO, MOSI, CSN, SCK, and CE pins on the F446RE (used on the left morpho pins).
+  
 - **Body**
-  In depth desc WIP
+  In-depth desc WIP
 ---
 
 <img width="582" alt="Screenshot 2025-07-08 at 11 14 32 AM" src="https://github.com/user-attachments/assets/6af9664e-34e3-4e4b-9147-ffd7b350b66f" />
