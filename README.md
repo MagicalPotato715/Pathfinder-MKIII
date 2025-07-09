@@ -2,6 +2,8 @@ About: This is the PCB for the third generation of my project, Pathfinder. The g
 
 Why: I began Pathfinder after my physics teacher encouraged me to join my school's science fair. I always had an idea for a spider robot I kept at the back of my mind, but this pushed me to actuate it. Over the next few weeks, I poured hours every day into learning more about mechanical and electrical engineering. I also sought mentorship from the UC Berkeley Engineering Department and got connected with a Mech E & EECS graduate student.  Mark I of Pathfinder, a simple prototype/proof of concept, was churned out after 2 weeks, just in time for my district's science fair to win me 2nd place. Mark II was developed a few weeks later for the regional science fair. Mark III, the model this PCB is for, will be the culmination of my work over an entire year to be entered into next season's science fair.
 
+(Note: The CAD model was created and fine-tuned over the course 3+ months that were before Highway began, so I didn't record the process in the journals.)
+
 <img width="582" alt="Screenshot 2025-07-08 at 11 14 32 AM" src="https://github.com/user-attachments/assets/6af9664e-34e3-4e4b-9147-ffd7b350b66f" />
 
 <img width="839" alt="Screenshot 2025-07-08 at 11 05 50 AM" src="https://github.com/user-attachments/assets/50314f48-1d56-455b-9535-cbf208bb406e" />
