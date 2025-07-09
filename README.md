@@ -44,9 +44,9 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
 |Male Headers|18|TS-103-G-A|$1.27|[Link](https://www.digikey.tw/en/products/detail/samtec-inc/TS-103-G-A/1105459)|
 |PCB Board|1| |$101.71|JLCPCB Order|
 
-Total Components Price: ~$191.27
+Total Components Price: ~$195.17
 PCB Price: $101.71
-Total Price: ~$292.98
+Total Price: ~$297.08
 
 
 
