@@ -1,8 +1,18 @@
 About: This is the PCB for the third generation of my project, Pathfinder. The goal for Pathfinder is to make a hexapod walking robot that is able to traverse in diverse and rugged terrain where conventional vehicles (e.g., cars, rovers) prove inefficient. The third generation of Pathfinder (Mark III) will feature significant upgrades from its predecessor (Mark II), including improved motors for speed and weight-bearing, an onboard 7.4V LiPo battery for tetherless power, an accelerometer, and an NRF chip for wireless communication.
 
-Why: I began Pathfinder after my physics teacher encouraged me to join my school's science fair. I always had an idea for a spider robot I kept at the back of my mind, but this pushed me to actuate it. Over the next few weeks, I poured hours every day into learning more about mechanical and electrical engineering. I also sought mentorship from the UC Berkeley Engineering Department and got connected with a Mech E & EECS graduate student.  Mark I of Pathfinder, a simple prototype/proof of concept, was churned out after 2 weeks, just in time for my district's science fair to win me 2nd place. Mark II was developed a few weeks later for the regional science fair. Mark III, the model this PCB is for, will be the culmination of my work over an entire year to be entered into next season's science fair.
+Why: I began Pathfinder after my physics teacher encouraged me to join my school's science fair. I had always had an idea for a spider robot that I kept at the back of my mind, but this pushed me to bring it to life. Over the next few weeks, I poured hours every day into learning more about mechanical and electrical engineering. I also sought mentorship from the UC Berkeley Engineering Department and got connected with a Mech E & EECS graduate student.  Mark I of Pathfinder, a simple prototype/proof of concept, was churned out after 2 weeks, just in time for my district's science fair to win me 2nd place. Mark II was developed a few weeks later for the regional science fair. Mark III, the model this PCB is for, will be the culmination of my work over an entire year to be entered into next season's science fair.
 
 (Note: The CAD model was created and fine-tuned over the course 3+ months that were before Highway began, so I didn't record the process in the journals.)
+
+---
+
+**In Depth: How It Works** (for all yall nerds out there)
+
+- **PCB**
+  The PCB is, in essence, a servo driver. It is supposed to be placed on top of a Nucleo F446RE board, taking advantage of its Morpho pins that expose the MCU.
+- **Body**
+  In depth desc WIP
+---
 
 <img width="582" alt="Screenshot 2025-07-08 at 11 14 32 AM" src="https://github.com/user-attachments/assets/6af9664e-34e3-4e4b-9147-ffd7b350b66f" />
 
@@ -29,12 +39,14 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
 |10uH Inductor|3|EXL1V0505-100-R|$0.69|[Link](https://www.digikey.tw/en/products/detail/eaton-electronics-division/EXL1V0505-100-R/13912336)|
 |XT60 Connector|1|XT60-F|$1.57|[Link](https://tw.shp.ee/Gx2Y8iE)|
 |0.1uF Capacitor|3|0603B104K250SD|$1.7|[Link](https://tw.shp.ee/weARm6H)|
-|Accelerometer|1|BNO055|38.46|[Link](https://tw.shp.ee/19Ezxnb)|
+|Accelerometer|1|BNO055|$38.46|[Link](https://tw.shp.ee/19Ezxnb)|
+|Female Headers|2|PPPC192LFBN-RC|~2.05|[Link](https://www.digikey.tw/en/products/detail/sullins-connector-solutions/PPPC192LFBN-RC/810258)|
+|Male Headers|18|TS-103-G-A|$1.27|[Link](https://www.digikey.tw/en/products/detail/samtec-inc/TS-103-G-A/1105459)|
 |PCB Board|1| |$101.71|JLCPCB Order|
 
-Total Components Price: ~$168.41
+Total Components Price: ~$191.27
 PCB Price: $101.71
-Total Price: ~269.12
+Total Price: ~$292.98
 
 
 
