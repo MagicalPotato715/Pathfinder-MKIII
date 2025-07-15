@@ -1,10 +1,47 @@
 ---
 title: Pathfinder Mark-III
 author: Calvin Hung
-description: This project is the PCB for the third edition of my hexapod Pathfinder for the science fair. It will be a significant upgrade from Mk-II, having significantly stronger motors a complex buck converter power control. Additionally, I also want it to feature remote control, and a good inverse kinematics system so that I won't have to hard code in movements.
+Description: This project is the third edition of my hexapod Pathfinder for the science fair. It will be a significant upgrade from Mk-II, having significantly stronger motors a complex buck converter power control. Additionally, I also want it to feature remote control, and a good inverse kinematics system so that I won't have to hard code in movements.
 created_at: 6/18/25
 Total Time Spent: ~32 hours (+-1)
 ---
+
+# April 22nd: Research and Designing the First CAD models of Mark III
+
+For the Mark III, I aimed for a total overhaul of the Mark II (shown below), primarily to incorporate more powerful servo motors, have better walking gaits, and achieve a more conventional hexapod appearance.
+
+<img width="2856" height="1280" alt="Screenshot_20250715-185828" src="https://github.com/user-attachments/assets/7d07ad3f-a703-43e5-8968-f076f2f8164c" />
+
+I took a lot of inspiration from hexapods like the MX-Phoenix and Aecert Robotics' hexapods, and held them as my goal for the final appearance. 
+
+MX-Phoenix:
+![MX-Phoenix-1280x720](https://github.com/user-attachments/assets/5898369c-673f-443e-8653-dd3522a848df)
+Aecert Robotics:
+![Hexapod1](https://github.com/user-attachments/assets/fe55c4f4-0954-464d-b6c7-63324d2aefd6)
+
+So, clearly there was a lot of work to be done. The first objective is to create a way to mount the servos into the 3D printed chassis (I'm using MG996R's which don't have easy screw holes to mount to). My first idea was to follow Aecert Robotics and make a sort of sleeve for the servo (shown below). However, with this, there would only be a single point of connection to each motor (at the horn); if left alone, this would be really unstable. I added an extension to the bottom of the servo (in line with the gear) to act as another rotation point.
+
+<img width="445" height="385" alt="Screenshot 2025-07-15 at 7 13 28 PM" src="https://github.com/user-attachments/assets/7f5bbaac-0b2e-459c-b3c9-0777f795f8df" />
+
+Issues: Bottom mount part is very annoying to print; very likely to mess up. The tolerance of the sleeve is very tight because slightly too small would prevent the motor from fitting, and too big would prevent the mounting pegs from fitting. Additionally, the bottom mount doesn't secure well to the sleeve and is thus unable to bear weight.
+
+**Total time spent: 2hrs**
+
+# April 24rd: Redesign and Femur Has Been Created
+
+The bottom mount is proving to be inefficient, so I decided to redesign it. Since mounting was the issue, I decided to make the peg part of the bottom piece of the motor case (it can be removed by taking out the screws). 
+
+<img width="629" height="511" alt="Screenshot 2025-07-15 at 7 21 31 PM" src="https://github.com/user-attachments/assets/4f01ca7e-0c72-4e21-83ea-65f6cc0a39f3" />
+
+Next, I started to make the Tibia because it looked like the simplest part. I started with simple connecting bars to each mounting point on either side of the motors. The actual mounting of the servo motors would be through the screw holes on the motor horns. Finally, I made a cool-looking X middle connector with a bunch of chamfers. I later decided to move the center connector slightly up, as to avoid issues with it hitting the motor.
+
+<img width="566" height="648" alt="Screenshot_2025-04-21_at_9 42 26_PM" src="https://github.com/user-attachments/assets/38454b58-132e-4c77-aeb8-ad812b6fd8b7" />
+
+Issues: All of the tibia parts had to be sized up 102% in slicing in order to fit with the servo horn I was testing it with. Also, the X connector had a really, really tight fit with the side bars.
+
+**Total time spent: 2hrs**
+
+
 
 # June 18th: Finished the Box Plot
 
