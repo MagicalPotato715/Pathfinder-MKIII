@@ -45,7 +45,7 @@ Issues: All of the tibia parts had to be sized up 102% in slicing in order to fi
 
 # June 18th: Finished the Box Plot
 
-I finally finalized my box plot for the PCB! It's somewhat heavily inspired by Aecert Robotics' design, but I removed the pressure sensors because I don't see the point in them. Also, I'm going to use the Bno055 as the gyro because the one Aecert uses is kind of bad :/. However, I want this design to be original - uniquely mine, so I'm going to base the power from better buck converters, have the main MCU be a Nucleo F446re, and use more affordable budget servos.
+I finally finalized my box plot for the PCB! It's also somewhat heavily inspired by Aecert Robotics' design, but I removed the pressure sensors because I don't see the point in them. Also, I'm going to use the Bno055 as the gyro because the one Aecert uses is kind of bad :/. However, I want this design to be original - uniquely mine, so I'm going to base the power from better buck converters, have the main MCU be a Nucleo F446re, and use more affordable budget servos.
 
 <img width="572" alt="Screenshot 2025-07-07 at 8 25 38 PM" src="https://github.com/user-attachments/assets/f1a7d65b-e78a-4c17-b261-9371db5360fe" />
 
