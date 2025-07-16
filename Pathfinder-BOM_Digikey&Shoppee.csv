@@ -17,4 +17,5 @@ XT60 Connector,1,XT60-F,1.57,1.57,https://tw.shp.ee/Gx2Y8iE
 Accelerometer,1,BNO055,38.46,38.46,https://tw.shp.ee/19Ezxnb
 Female Headers,2,PPPC192LFBN-RC,2.05,4.1,https://www.digikey.tw/en/products/detail/sullins-connector-solutions/PPPC192LFBN-RC/810258
 Male Headers,18,TS-103-G-A,1.27,22.86,https://www.digikey.tw/en/products/detail/samtec-inc/TS-103-G-A/1105459
-Total,,,,168.41,
+PCB Board,1,,101.71,JLCPCB Order
+Total,,,,270.12,
