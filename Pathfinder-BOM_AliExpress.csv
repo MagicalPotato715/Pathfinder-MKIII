@@ -1,0 +1,21 @@
+Component,Quantity,Model,Lowest Price,Link
+LED,2,VLMR233T2V2-GS08,$0.35,https://www.aliexpress.com/item/1005008128628087.html
+Button,"2 (1x20pcs)",TL1240NQ1JBLK,$1.27,https://www.aliexpress.com/item/1005003938985112.html
+Servo Motor,"18 (2x10pcs)",MG996R,$30.81,https://www.aliexpress.com/item/1005007032811340.html
+10uF Capacitor,"7 (1x100pcs)",0805W106K250CC,$0.60,https://www.aliexpress.com/item/1626652703.html
+10k Resistor,"5 (1x100pcs)",CR0805-JW-103ELF,$0.35,https://www.aliexpress.com/item/1005006269805332.html
+500 Resistor,"2 (1x100pcs)",CR0805-FX-4990ELF,$0.35,https://www.aliexpress.com/item/1005006269805332.html
+NRF Board,1,NRF24L01_Breakout,$0.58,https://www.aliexpress.com/item/1005005642753224.html
+Schottky Resistor,"3 (1x20pcs)",MBR1045S,$2.38,https://www.aliexpress.com/item/3256807600787150.html
+Buck Converter,"3 (1x5pcs)",RT8289GSP,$2.26,https://www.aliexpress.com/item/1005006319216009.html
+47uF Capacitor,"6 (1x10pcs)",6TAB47M,$10.30,https://www.aliexpress.com/item/3256807390659102.html
+39k Resistor,"3 (1x100pcs)",CR0805-FX-3832ELF,$0.35,https://www.aliexpress.com/item/1005006269805332.html
+Developement Board,1,Nucleo F446RE,$25.13,https://www.aliexpress.com/item/3256808854818208.html
+10uH Inductor,"3 (1x10pcs)",EXL1V0505-100-R,$2.43,https://www.aliexpress.com/item/1005007254030376.html
+XT60 Connector,1,XT60-M,$0.39,https://www.aliexpress.com/item/1005007103438736.html
+Battery,1,"7.4v 2s Lipo",$29.49,https://www.aliexpress.com/item/3256802810308498.html
+0.1uF Capacitor,"3 (1x100pcs)",0603B104K250SD,$0.95,https://www.aliexpress.com/item/1005003512666695.html
+Accelerometer,1,BNO055,$29.32,https://www.aliexpress.com/item/3256809169239048.html
+Female Headers,"2 (1x10pcs)",PPPC192LFBN-RC,$0.89,https://www.aliexpress.com/item/4001198421663.html
+Male Headers,"18 (1x50pcs)",TS-103-G-A,$0.94,https://www.aliexpress.com/item/4000988113226.html
+PCB Board,1,,$101.71,JLCPCB Order
