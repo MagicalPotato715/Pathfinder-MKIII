@@ -24,11 +24,11 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
   In-depth desc WIP
 ---
 
-<img width="582" alt="Screenshot 2025-07-08 at 11 14 32 AM" src="https://github.com/user-attachments/assets/6af9664e-34e3-4e4b-9147-ffd7b350b66f" />
+<img width="522" height="548" alt="Screenshot 2025-07-18 at 9 36 13 AM" src="https://github.com/user-attachments/assets/6ae99980-b2d3-4fab-82db-d6c50b4b5116" />  
 
 <img width="839" alt="Screenshot 2025-07-08 at 11 05 50 AM" src="https://github.com/user-attachments/assets/50314f48-1d56-455b-9535-cbf208bb406e" />
 
-<img width="490" alt="Screenshot 2025-07-08 at 11 06 36 AM" src="https://github.com/user-attachments/assets/ebce3c79-0d38-490b-83f8-eb5f56c57008" />
+<img width="509" height="546" alt="Screenshot 2025-07-18 at 9 31 08 AM" src="https://github.com/user-attachments/assets/bdffd40a-9379-47e4-baf9-80aceaa9ed13" />
 
 <img width="820" alt="Screenshot_2025-05-13_at_6 30 04_PM" src="https://github.com/user-attachments/assets/9e708280-c7e5-4113-b357-b55002ef5db7" />
 
