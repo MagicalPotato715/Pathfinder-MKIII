@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D4,D5";"LED_miniPLCC_2315_Handsoldering";2;"LED";;;
+2;"SW2,SW1";"SW_PUSH_6mm_H9.5mm";2;"SW_Push";;;
+3;"Coxa2,Femur1,Tibia5,Tibia1,Femur3,Coxa4,Coxa5,Tibia3,Tibia2,Coxa3,Femur6,Femur4,Tibia4,Coxa6,Coxa1,Tibia6,Femur5,Femur2";"PinHeader_1x03_P2.54mm_Vertical";18;"Motor_Servo";;;
+4;"C8,C5,C7,C13,C16,C4,C12";"C_0805_2012Metric";7;"10uF";;;
+5;"R7,R6,R4,R8,R2";"R_0805_2012Metric";5;"10k";;;
+6;"R9,R10";"R_0805_2012Metric";2;"500";;;
+7;"U2";"nRF24L01_Breakout";1;"NRF24L01_Breakout";;;
+8;"D7,D1,D3";"MBR1045S";3;"D_Schottky";;;
+9;"BuckConverterB1,BuckConverterC1,BuckConverterA1";"SOIC127P599X175-9N";3;"~";;;
+10;"C2,C3,C9,C15,C10,C14";"CAP_TA_B2_PAN";6;"47uF";;;
+11;"R5,R1,R3";"R_0805_2012Metric";3;"38k";;;
+12;"U1";"MODULE_NUCLEO-F446RE";1;"NUCLEO-F446RE";;;
+13;"L3,L1,L2";"IND_EXL1V0505-100-R_COB";3;"10uH";;;
+14;"J1";"AMASS_XT60-M";1;"XT60-M";;;
+15;"C11,C6,C1";"C_0603_1608Metric";3;"0.1uF";;;
+16;"Bno055";"BNO055";1;"~";;;
