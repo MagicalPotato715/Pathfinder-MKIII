@@ -53,11 +53,11 @@ Why: I began Pathfinder after my physics teacher encouraged me to join my school
 |Accelerometer|1|BNO055|$29.32|[Link](https://www.aliexpress.com/item/3256809169239048.html?spm=a2g0o.productlist.main.4.3bcb1ccf4PvH8r&algo_pvid=e7c705af-71c5-41ca-b796-970d70bc8c14&algo_exp_id=e7c705af-71c5-41ca-b796-970d70bc8c14-3&pdp_ext_f=%7B%22order%22%3A%222%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2131.19%2129.32%21%21%21222.46%21209.11%21%40214100f417526315452977374e76fc%2112000048851091864%21sea%21US%216187826129%21ABX&curPageLogUid=vcOzWTYEZgSK&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |Female Headers|2 (1x10pcs)|PPPC192LFBN-RC|$0.89|[Link](https://www.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.1.53b448ed3nbjvM&algo_pvid=b77199fa-d225-4b06-920e-1e9f2247e7c7&algo_exp_id=b77199fa-d225-4b06-920e-1e9f2247e7c7-0&pdp_ext_f=%7B%22order%22%3A%223754%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%210.56%210.48%21%21%210.56%210.48%21%402140f53817526293708992891e4ad8%2110000015275671639%21sea%21TW%216187826129%21ABX&curPageLogUid=mkUieaDajPN6&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |Male Headers|18 (1x50pcs)|TS-103-G-A|$0.94|[Link](https://www.aliexpress.com/item/4000988113226.html?spm=a2g0o.productlist.main.4.3e7d225ff81nTC&algo_pvid=fa0decd7-7944-4609-9363-1b7ce34f160f&algo_exp_id=fa0decd7-7944-4609-9363-1b7ce34f160f-3&pdp_ext_f=%7B%22order%22%3A%221703%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.25%210.94%21%21%211.25%210.94%21%40212a6e2917526295363814312e0834%2110000013202368860%21sea%21TW%216187826129%21ABX&curPageLogUid=NrD7a47zgcIJ&utparam-url=scene%3Asearch%7Cquery_from%3A)|
-|PCB Board|1| |$101.71|JLCPCB Order|
+|PCB Board|1| |$76.88|JLCPCB Order|
 
 Total Components Price (+26.63 Shipping & tax): $223.39
-PCB Price: $101.71
-Total Price: $305.1
+PCB Price: $76.88
+Total Price: $280.27
 
 
 
